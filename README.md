@@ -1,4 +1,2 @@
-MY
-Project
-to
-school
+My project to school
+created: 2017-12-04
